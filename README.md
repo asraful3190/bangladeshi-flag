@@ -1,4 +1,6 @@
 # flag
+![Screenshot](https://user-images.githubusercontent.com/86846327/148077929-7018ca2c-ab2b-43b7-95a6-e1b80e1170c6.png)
+
 
 A new Flutter project.
 
